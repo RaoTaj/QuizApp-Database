@@ -1,0 +1,13 @@
+body {
+    background-image: url(./img/1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.container .my-2 .my-4 {
+    color: white;
+}
+h3 {
+    color: yellow;
+}
